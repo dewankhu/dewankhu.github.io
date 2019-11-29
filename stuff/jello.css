@@ -1,0 +1,8 @@
+#myFancyText{
+		color: red;
+		font-weight: bold;
+		font-size: 100px;
+		font-style: italic;
+		letter-spacing: 2px;
+		text-shadow: 5px 2px 2px #000000;
+}

@@ -1,0 +1,1 @@
+I'm going through a Udemy intro course to HTML and CSS. They get pretty deep right away and didn't explain that HTML is for the FRAMEWORK, CSS is for the STYLE and Javascript is for the FUNCTIONALITY of any given website. Now I can go back to it with a better understanding of what they're talking about. Thanks Chris O.
